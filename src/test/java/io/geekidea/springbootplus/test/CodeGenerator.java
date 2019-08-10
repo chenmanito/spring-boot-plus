@@ -57,11 +57,11 @@ public class CodeGenerator {
     // 模块名称
     private static final String MODULE_NAME = "system";
     // 作者
-    private static final String AUTHOR = "geekidea";
+    private static final String AUTHOR = "chenpengfei";
     // 生成的表名称
-    private static final String TABLE_NAME = "sys_log";
+    private static final String TABLE_NAME = "sys_user";
     // 主键数据库列名称
-    private static final String PK_ID_COLUMN_NAME = "log_id";
+    private static final String PK_ID_COLUMN_NAME = "id";
     // 代码生成策略 true：All/false:SIMPLE
     private static final boolean GENERATOR_STRATEGY = true;
     // 分页列表查询是否排序 true：有排序参数/false：无
